@@ -1,8 +1,9 @@
-import Typography from '@mui/material/Typography';
+import Quakes from './Quakes';
+
 function App() {
-  <Typography variant="h1" gutterBottom>
-       Hello React +MUI!
-      </Typography>
+  return (<>
+  <Quakes/>
+  </>)
 }
 
 export default App
