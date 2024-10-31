@@ -1,9 +1,9 @@
-import Quakes from './Quakes';
+import Transformer from '../wid-hausaufgabe-6/src/Components/Transformer'
 
 function App() {
-  return (<>
-  <Quakes/>
-  </>)
+  return (   
+   <Transformer/>
+  )
 }
 
 export default App
